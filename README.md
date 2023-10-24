@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaAberg
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Front end development
+- 🌱 I’m currently learning about html,css and git on a basic level
 
 <!---
 CaAberg/CaAberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
