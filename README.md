@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @CaAberg
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning about html,css and git on a basic level
-
-<!---
-CaAberg/CaAberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Carl Åberg, a profficient student within front end development. 
+I have worked with html, css, javascript and typescript, and am currently developing more skills in Typescript, React and Tailwind. 
+If you find something you like, or could be improved, please let me know so that I can learn even faster and expand my horizons further! :) 
