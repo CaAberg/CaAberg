@@ -1,3 +1,4 @@
-I'm Carl Åberg, a profficient student within front end development. 
-I have worked with HTML, CSS, JavaScript and Typescript, and am currently developing more skills in Typescript, React and Tailwind. 
-If you find something you like, or could be improved, please let me know so that I can learn even faster and expand my horizons further! :) 
+I'm Carl Åberg, a student within front-end development!
+I have worked with CSS, Tailwind, Sass, Next.js, React, JavaScript, Typescript, Python and more.  
+If you find something you like, or could be improved, please let me know so that I can learn even faster and expand my horizons further! :)
+Currently open for an apprenticeship!
